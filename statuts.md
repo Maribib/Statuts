@@ -114,9 +114,9 @@ c. Les convocations aux assemblées générales sont affichées aux valves du D�
 
 a. L'Assemblée Générale siège valablement quel que soit le nombre des membres effectifs, présents ou représentés, sauf dans les cas sous-mentionnés:
 
-    1. l'élection du président, du trésorier et du délégué folklore, lesquels nécessitent les deux tiers des membres effectifs, qu’ils soient présents ou représentés ;
-    2. l’approbation et la modification des statuts comme du Règlement d’Ordre Intérieur, la révocation d’un administrateur, l’exclusion d’un membre, la nomination des liquidateurs, ou la nomination des vérificateurs aux comptes, lesquels nécessitent les deux tiers des membres effectifs, qu’ils soient présents ou représentés;
-    3. la modification de l’objet social de l’association ou la dissolution volontaire de l’association, lesquels nécessitent les quatre cinquièmes des membres effectifs, qu’ils soient présents ou représentés.
+   1. l'élection du président, du trésorier et du délégué folklore, lesquels nécessitent les deux tiers des membres effectifs, qu’ils soient présents ou représentés ;
+   2. l’approbation et la modification des statuts comme du Règlement d’Ordre Intérieur, la révocation d’un administrateur, l’exclusion d’un membre, la nomination des liquidateurs, ou la nomination des vérificateurs aux comptes, lesquels nécessitent les deux tiers des membres effectifs, qu’ils soient présents ou représentés;
+   3. la modification de l’objet social de l’association ou la dissolution volontaire de l’association, lesquels nécessitent les quatre cinquièmes des membres effectifs, qu’ils soient présents ou représentés.
 
 b. Si le quorum des membres effectifs, qu’ils soient présents ou représentés, requis pour les cas susmentionnés n’est pas atteint lors de la première Assemblée Générale, il peut en être convoqué une seconde, au moins 15 jours plus tard, qui pourra siéger valablement quel que soit le nombre de membres effectifs, présents ou représentés.
 
