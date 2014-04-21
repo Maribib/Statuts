@@ -125,9 +125,9 @@ b. Si le quorum des membres effectifs, qu’ils soient présents ou représenté
 
 **Art. 21 :**
 
-a. Il doit être tenu, chaque année, une Assemblée Générale ordinaire dans le courant du mois d’avril ou du mois de mai.
+a. Il doit être tenu, chaque année, une Assemblée Générale ordinaire (dite "Assemblée Générale de mi-mandat") vers la fin du mois de novembre ou le début du mois de décembre. Cette assemblée aura pour but de voir l'état des comptes actuel (via un bilan financier) et de demander aux membres du Conseil d'Administration d'effectuer un bilan moral pour la partie de leur mandat écoulée (de leur élection jusqu'au jour de l'Assemblée Générale)
 
-b. Cette assemblée aura, à son ordre du jour notamment la décharge de chaque administrateur, l’élection des administrateurs entrant en fonction  et se verra soumettre l’approbation des comptes de l’exercice écoulé et le budget du prochain exercice.
++b. Il doit être tenu, chaque année, une Assemblée Générale ordinaire dans le courant du mois d’avril ou du mois de mai. Cette assemblée aura, à son ordre du jour notamment la décharge de chaque administrateur, l’élection des administrateurs entrant en fonction  et se verra soumettre l’approbation des comptes de l’exercice écoulé et le budget du prochain exercice.
 
 **Art. 22 :** Les décisions de l’assemblée sont consignées dans un registre signé par le président et un autre administrateur. Ce registre se trouve au siège social et est accessible à tout membre  désirant le consulter, sauf en ce qui concerne le volet comptable qui sera accessible aux seuls membres effectifs.
 
