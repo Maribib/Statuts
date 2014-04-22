@@ -51,11 +51,11 @@ c. Tout candidat à un poste du Bureau de l’association devra avoir effectué 
 
 d. En outre, tout candidat au poste de président de cercle doit avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Bureau. En outre, il doit suivre ou avoir suivi des cours dispensés par le Département Informatique de l'Université Libre de Bruxelles. Enfin, il doit avoir terminé avec succès une année de deuxième bachelier.
 
-f. Le candidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles.
+e. Le candidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles.
 
-g. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+f. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
-h. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+g. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
 **Art. 7bis**
 
