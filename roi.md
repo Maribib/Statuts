@@ -65,7 +65,7 @@ b. Le candidat au poste de président de baptême doit avoir effectué une anné
 
 c. Le membre effectif qui n’aurait pas été baptisé au Cercle Informatique de l’Université Libre de Bruxelles, ou dans tout autre Cercle reconnu comme folklorique par le Conseil d’Administration, ne dispose pas du droit de vote pour l’élection du président de baptême.
 
-d. Le membre effectif, baptisé au Cercle informatique de l'Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, et faisant partie du Conseil d'Administration dispose d'une voix pondérée à 1 pour l’élection du président de baptême.
+d. Le membre effectif, baptisé au Cercle informatique de l'Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du président de baptême.
 
 e. Le membre effectif faisant partie du Comité de Baptême ou des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles dispose d'une voix pondérée à 2 pour l'élection du président de baptême. 
 
