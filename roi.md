@@ -67,11 +67,11 @@ c. Le membre effectif qui n’aurait pas été baptisé au Cercle Informatique d
 
 d. Le membre effectif, baptisé au Cercle informatique de l'Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du président de baptême.
 
-e. Le membre effectif faisant partie du Comité de Baptême ou des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles dispose d'une voix pondérée à 2 pour l'élection du président de baptême. 
+e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles ou du Conseil d'Administration dispose d'une voix pondérée à 2 pour l'élection du président de baptême. 
 
 f. Le président de baptême est élu à la majorité absolue. 
 
-g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est désigné délégué folklore de fait.
+g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est éligible délégué folklore de fait.
 
 h. Le candidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles.
 
