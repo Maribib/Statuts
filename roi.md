@@ -29,7 +29,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 4. un trésorier
 5. un secrétaire
 6. un délégué folklore
-7. deux délégués bar
+7. trois délégués bar (Trésorier Bar, Stocks et Nettoyage)
 9. deux délégués FOSDEM
 10. un délégué web
 11. un délégué forum de l’emploi
@@ -55,9 +55,11 @@ e. Le candidat au poste de président de baptême doit avoir effectué au moins 
 
 f. Le candidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles.
 
-g. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+g. Les 3 postes du bar seront remplis dans l'ordre de préférence suivant: Trésorier Bar, Stocks, Nettoyage. Si le nombre de barmans élus est inférieur à 3, les barmans restants se divisent le ou les postes non remplis.
 
-h. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+h. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+
+i. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
 **Art. 7bis** Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est désigné délégué folklore de fait.
 
@@ -92,8 +94,6 @@ a. Est réputé démissionnaire de sa fonction dans le Conseil d’Administratio
 b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association, l’administrateur n’étant plus inscrit comme élève régulier en cours du jour à l’Université Libre de Bruxelles. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
 c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
-
-
 
 
 ##Titre VI : Convocation du Conseil d’Administration
