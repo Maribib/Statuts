@@ -16,8 +16,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 
 ##Titre II : Convocation aux Assemblées Générales
 
-**Art. 5** Les convocations pour les Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be) et inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be).
-
+**Art. 5** Pour un maximum de visibilité, les convocations aux Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be), inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be) et sur la page facebook du Cercle Informatique (https://www.facebook.com/cerkinfo).
 
 ##Titre III : Composition du  Conseil d’Administration
 
@@ -95,13 +94,9 @@ b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association
 
 c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
-
-
-
 ##Titre VI : Convocation du Conseil d’Administration
 
 **Art. 15 :** Le Conseil d’Administration se réunit au moins dix fois par an à l'initiative de son président. Néanmoins, une réunion peut être convoquée sans l’initiative du président de cercle si au moins trois membres l'estiment nécessaire.
-
 
 ##Titre VII : Des mouvements financiers
 
