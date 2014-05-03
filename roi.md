@@ -40,6 +40,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 17. un délégué hackerspace
 
 ##Titre IV : Des conditions et modalités d'élection du Conseil d’Administration
+
 **Art. 7**
 
 a. Tout candidat au Conseil d’Administration doit être membre effectif de l'association et avoir épongé toutes les dettes qu'il a contractées envers l’association. Il devra également être inscrit comme élève régulier d’un établissement scolaire de type supérieur à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard.
@@ -50,9 +51,9 @@ c. Tout candidat à un poste du Bureau de l’association devra avoir effectué 
 
 d. En outre, tout candidat au poste de président de cercle doit avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Bureau. En outre, il doit suivre ou avoir suivi des cours dispensés par le Département Informatique de l'Université Libre de Bruxelles. Enfin, il doit avoir terminé avec succès une année de deuxième bachelier.
 
-e. Le candidat au poste de président de baptême doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d’Administration.
+e. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
-f. Le candidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles.
+f. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
 g. Le candidat au poste de délégué hackerspace doit avoir été approuvé par un vote à majorité de l'assemblée générale du hackerspace. Celle-ci est constituée des membres adhérents au Cercle et n'ayant pas été exclus du hackerspace. Celle-ci est convoquée par le délégué hackerspace sortant et à défaut, par le président.
 
@@ -62,7 +63,21 @@ i. Cependant, le Conseil d’Administration sortant peut voter - à la majorité
 
 j. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
-**Art. 7bis** Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est désigné délégué folklore de fait.
+**Art. 7bis**
+
+a. L'élection du président de baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant la "semaine folklorique" du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par l'intermédiaire des mailing-lists et du forum du Cercle Informatique de l'Université Libre de Bruxelles. 
+
+b. Le candidat au poste de président de baptême doit avoir effectué une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles. Il doit également avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Conseil d'Administration.
+
+c. Le membre effectif qui n’aurait pas été baptisé au Cercle Informatique de l’Université Libre de Bruxelles, ou dans tout autre Cercle reconnu comme folklorique par le Conseil d’Administration, ne dispose pas du droit de vote pour l’élection du président de baptême.
+
+d. Le membre effectif, baptisé au Cercle informatique de l'Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d'Administration, dispose d'une voix pondérée à 1 pour l’élection du président de baptême.
+
+e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes du Cercle Informatique de l'Université Libre de Bruxelles ou du Conseil d'Administration dispose d'une voix pondérée à 2 pour l'élection du président de baptême. 
+
+f. Le président de baptême est élu à la majorité absolue. 
+
+g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est éligible délégué folklore de fait.
 
 **Art. 8** Pour être valides, les candidatures doivent parvenir par écrit au président de cercle ou au secrétaire au plus tard 48 heures avant l’élection. Exception faite pour le poste de délégué folklore.
 
