@@ -16,8 +16,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 
 ##Titre II : Convocation aux Assemblées Générales
 
-**Art. 5** Les convocations pour les Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be) et inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be).
-
+**Art. 5** Pour un maximum de visibilité, les convocations aux Assemblées Générales sont affichées aux valves du Département d’informatique de l’Université Libre de Bruxelles, envoyées par mailing list (cercle-informatique@cerkinfo.be), inscrites sur le forum internet du Cercle Informatique (www.cerkinfo.be) et sur la page facebook du Cercle Informatique (https://www.facebook.com/cerkinfo).
 
 ##Titre III : Composition du  Conseil d’Administration
 
@@ -29,7 +28,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 4. un trésorier
 5. un secrétaire
 6. un délégué folklore
-7. deux délégués bar
+7. trois délégués bar (Trésorier Bar, Stocks et Nettoyage)
 9. deux délégués FOSDEM
 10. un délégué web
 11. un délégué forum de l’emploi
@@ -41,6 +40,7 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 17. un délégué hackerspace
 
 ##Titre IV : Des conditions et modalités d'élection du Conseil d’Administration
+
 **Art. 7**
 
 a. Tout candidat au Conseil d’Administration doit être membre effectif de l'association et avoir épongé toutes les dettes qu'il a contractées envers l’association. Il devra également être inscrit comme élève régulier d’un établissement scolaire de type supérieur à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard.
@@ -51,11 +51,17 @@ c. Tout candidat à un poste du Bureau de l’association devra avoir effectué 
 
 d. En outre, tout candidat au poste de président de cercle doit avoir occupé antérieurement, durant un mandat complet au moins, un poste dans le Bureau. En outre, il doit suivre ou avoir suivi des cours dispensés par le Département Informatique de l'Université Libre de Bruxelles. Enfin, il doit avoir terminé avec succès une année de deuxième bachelier.
 
-e. Le candidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles.
+e. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
-f. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+f. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
-g. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+g. Le candidat au poste de délégué hackerspace doit avoir été approuvé par un vote à majorité de l'assemblée générale du hackerspace. Celle-ci est constituée des membres adhérents au Cercle et n'ayant pas été exclus du hackerspace. Celle-ci est convoquée par le délégué hackerspace sortant et à défaut, par le président.
+
+h. Les 3 postes du bar seront remplis dans l'ordre de préférence suivant: Trésorier Bar, Stocks, Nettoyage. Si le nombre de barmans élus est inférieur à 3, les barmans restants se divisent le ou les postes non remplis.
+
+i. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
+
+j. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
 **Art. 7bis**
 
@@ -72,8 +78,6 @@ e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes 
 f. Le président de baptême est élu à la majorité absolue. 
 
 g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est éligible délégué folklore de fait.
-
-h. Le candidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au baptême au sein du Cercle Informatique de l'Université Libre de Bruxelles.
 
 **Art. 8** Pour être valides, les candidatures doivent parvenir par écrit au président de cercle ou au secrétaire au plus tard 48 heures avant l’élection. Exception faite pour le poste de délégué folklore.
 
@@ -107,13 +111,9 @@ b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association
 
 c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
-
-
-
 ##Titre VI : Convocation du Conseil d’Administration
 
 **Art. 15 :** Le Conseil d’Administration se réunit au moins dix fois par an à l'initiative de son président. Néanmoins, une réunion peut être convoquée sans l’initiative du président de cercle si au moins trois membres l'estiment nécessaire.
-
 
 ##Titre VII : Des mouvements financiers
 
