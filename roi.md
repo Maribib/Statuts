@@ -63,6 +63,8 @@ i. Cependant, le Conseil d’Administration sortant peut voter - à la majorité
 
 j. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
+k. Les 2 postes du hackerspace seront remplis dans l'ordre suivant : Président Hackerspace, Trésorier Hackerspace. Si un seul délégué est élu, il cumule les deux postes. Si personne n'est élu, le conseil administrateur peut désigner cette personne au sein du conseil administrateur. 
+
 **Art. 7bis**
 
 a. L'élection du président de baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant la "semaine folklorique" du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par l'intermédiaire des mailing-lists et du forum du Cercle Informatique de l'Université Libre de Bruxelles. 
@@ -78,6 +80,8 @@ e. Le membre effectif faisant partie du Comité de Baptême, des toges ouvertes 
 f. Le président de baptême est élu à la majorité absolue. 
 
 g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est éligible délégué folklore de fait.
+
+h. Les 2 postes du folklore seront remplis dans l'ordre suivant : Président de baptême, Trésorier folklore. Si un seul délégué est élu, il cumule les deux postes. Si personne n'est élu, le conseil administrateur peut désigner cette personne au sein du conseil administrateur.
 
 **Art. 8** Pour être valides, les candidatures doivent parvenir par écrit au président de cercle ou au secrétaire au plus tard 48 heures avant l’élection. Exception faite pour le poste de délégué folklore.
 
