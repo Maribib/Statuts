@@ -1,37 +1,33 @@
 #Statuts
 
-##Titre I : Généralités
+##Titre I : Dénomination
 
-**Art. 1 - Dénomination** 
-  
-L’association sans but lucratif (ci-après, A.S.B.L.) est dénommée « Cercle Informatique de l’Université Libre de Bruxelles ». En abrégé : « Cerkinfo » ou «C.I.» ou «Cercle». 
+**Art. 1**: L’association est dénommée « Cercle Informatique de l’Université Libre de Bruxelles ». En abrégé : « Cerkinfo ». C'est une association sans but lucratif.
 
-**Art. 2 - Siège Social** 
+##Titre II : Siège Social
 
-Le Cercle Informatique se situe Boulevard du Triomphe CP 206, 1050 Bruxelles, Belgique. L’ASBL a son siège social dans l’arrondissement judiciaire de Bruxelles.
+**Art. 2**: Le Cercle Informatique se situe Boulevard du Triomphe CP 206, 1050 Bruxelles, Belgique. L’ASBL a son siège social dans l’arrondissement judiciaire de Bruxelles.
 
-**Art. 3 - Buts**
+##Titre III : Buts
 
-a. L’association, adhérant au principe du Libre Examen, a pour but de soutenir et d’aider les étudiants d’informatique de l’ULB dans leurs études et de favoriser leur insertion dans la vie universitaire. Elle a également pour but la promotion et la vulgarisation de l’informatique, ainsi que la promotion et la défense du folklore estudiantin.
+**Art. 3**:
+a) L’association, adhérant au principe du Libre Examen, a pour but de soutenir et d’aider les étudiants d’informatique de l’ULB dans leurs études et de favoriser leur insertion dans la vie universitaire. Elle a également pour but la promotion et la vulgarisation de l’informatique, ainsi que la promotion et la défense du folklore estudiantin.
 
 b. Pour arriver à ses fins, l’association peut user de tous les moyens dont disposent légalement les associations sans but lucratif. L’ASBL peut poser tout acte se rapportant directement ou indirectement à ses objets. L’association peut collaborer avec toute personne physique ou morale aux fins de parvenir à la réalisation de ses buts.
 
-**Art. 4 - Durée** 
+##Titre IV : Durée
 
-La durée de l'association est illimitée et peut être dissoute à tout moment.
+**Art. 4**: La durée de l'association est illimitée et peut être dissoute à tout moment.
 
-##Titre II : Les membres
+##Titre V : Les membres
 
-**Art. 5 - Membres Fondateurs** 
+**Art. 5**: Les membres fondateurs sont :
 
-Les membres fondateurs sont :
-
-* Contzen Laurent, Clos du Bergoje 39 bte 3  à 1160 Bruxelles, né le 26 janvier 1988 à Uccle ;
-* Duchêne Mathieu, Rue Champs du Bois 15 à 1421Ophain, né le 07 janvier 1986 à Braine-l'Alleud;
-* Madeira Cortes André, Avenue Eugène Demolder 53 à 1030 Bruxelles, né le 28 juillet 1990 à Etterbeek
+Contzen Laurent, Clos du Bergoje 39 bte 3  à 1160 Bruxelles, né le 26 janvier 1988 à Uccle ;
+Duchêne Mathieu, Rue Champs du Bois 15 à 1421Ophain, né le 07 janvier 1986 à Braine-l'Alleud;
+Madeira Cortes André, Avenue Eugène Demolder 53 à 1030 Bruxelles, né le 28 juillet 1990 à Etterbeek
 
 **Art. 6 :**
-
 a. L’association est composée de membres effectifs, de membres adhérents et de membres d’honneur qui sont toutes des personnes physiques et majeures.
 
 b. La qualité de membre de l’association implique l’adhésion totale aux présents statuts et au Règlement d’Ordre Intérieur.
@@ -43,7 +39,6 @@ c. Le nombre de membres effectifs n’est pas limité, sans pouvoir être infér
 **Art. 7 :** Toute personne désirant devenir membre effectif ou adhérent de l’association doit en adresser la demande, orale ou écrite, au secrétaire. Cette demande comprendra l’adhésion au principe du Libre Examen. Le Conseil d’Administration statue sans appel sur la demande conformément aux prescrits du Règlement d’Ordre Intérieur.
 
 **Art. 8 :**
-
 a. Est membre effectif tout étudiant, ou ancien étudiant, qui aura été admis en cette qualité par le Conseil d’Administration. Le membre effectif dispose du droit de vote à l’Assemblée Générale à hauteur d’une voix.
 
 b. Toutefois, le membre effectif qui n’aurait pas été baptisé au Cercle Informatique de l’Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d’Administration, ne dispose pas du droit de vote pour l’élection du délégué folklore.
@@ -55,7 +50,6 @@ d. Est membre d'honneur toute personne admise en cette qualité par le Conseil d
 ###Démission ou exclusion d’un membre
 
 **Art. 9 :**
-
 a. Les membres sont libres de se retirer à tout moment de l’association en adressant leur démission par écrit au Conseil d’Administration.
 
 b. Le membre démissionnaire n'a pas droit au remboursement de sa cotisation.
@@ -63,7 +57,6 @@ b. Le membre démissionnaire n'a pas droit au remboursement de sa cotisation.
 c. La démission d’un membre est effective si le membre ne paye pas la cotisation annuelle qui lui incombe dans un délai fixé par le Conseil d’Administration. Les modalités sont fixées dans le Règlement d’Ordre Intérieur.
 
 **Art. 10 :**
-
 a. Le Conseil d’Administration peut suspendre, jusqu’à décision de l’Assemblée Générale d’exclusion prise à la majorité qualifiée de deux tiers des membres de l’ASBL, le membre qui aurait nuit aux intérêts de l’association. Les modalités sont fixées dans le Règlement d’Ordre Intérieur.
 
 b. L’exclusion d’un membre ne peut être prononcée que par l’Assemblée Générale, le membre ayant été invité à présenter ses moyens de défense. La décision de l’Assemblée Générale est sans appel. Si l’exclu le souhaite, il pourra néanmoins recouvrir la qualité de membre durant l'année académique qui suit celle de son exclusion sous réserve de l'accord du Conseil d’Administration.
@@ -71,7 +64,6 @@ b. L’exclusion d’un membre ne peut être prononcée que par l’Assemblée G
 ###Droits
 
 **Art. 11 :**
-
 a. Le membre démissionnaire ou exclu n’a aucun droit à faire valoir sur l’avoir de l’association.
 
 b. Le membre exclu n'a pas droit au remboursement de sa cotisation.
@@ -91,14 +83,13 @@ c. Il ne peut réclamer ou requérir ni relevé ou reddition de compte, ni appos
 **Art. 14 :** La qualité de membre – effectif et adhérent - est subordonnée au règlement d’une cotisation annuelle fixée par le Conseil d’Administration. La cotisation ne peut être supérieure à 25 euros ni inférieure à 5 euros. Les modalités sont fixées dans le Règlement d’Ordre Intérieur.
 
 
-##Titre III : Le Fonctionnement de l’Assemblée Générale
+##Titre VI : Le Fonctionnement de l’Assemblée Générale
 
 **Art. 15 :** L’Assemblée Générale est composée des membres effectifs et des membres représentés. Les membres adhérents et les membres d’honneur doivent y être explicitement invités. L’assemblée est présidée par le président du Conseil d’Administration ou, en cas d’absence justifiée du président, par un membre du bureau.
 
 **Art. 16 :** L’Assemblée Générale est convoquée par le Conseil d’Administration, ou sur demande d’un cinquième des membres de l’association, huit jours au moins avant la date fixée pour ladite assemblée.
 
 **Art. 17 :**
-
 a. L’ordre du jour est mentionné dans la convocation et est fixé par le Conseil d’Administration. Un point doit être porté à l’ordre du jour s’il est signé par au moins un vingtième des membres effectifs. L’assemblée peut délibérer valablement sur des points qui ne sont pas mentionnés à l’ordre du jour pour autant que ceux-ci recueillent deux tiers des voix, qu’elles soient présentes ou représentées, sauf dans les cas et pour les objets à propos desquels la loi ou les statuts en disposent autrement.
 
 b. Si l’Assemblée Générale est convoquée aux fins de modifier les statuts de l’association, les propositions de modification devront être inscrite à l’ordre du jour. Elles devront viser des dispositions particulières des présents statuts et ne pourront être générales.
@@ -124,15 +115,14 @@ b. Si le quorum des membres effectifs, qu’ils soient présents ou représenté
 3. la modification de l’objet social ou la dissolution volontaire de l’association, laquelle nécessite une majorité qualifiée des quatre cinquièmes des voix, qu’elles soient présentes ou représentées.
 
 **Art. 21 :**
-
 a. Il doit être tenu, chaque année, une Assemblée Générale ordinaire (dite "Assemblée Générale de mi-mandat") vers la fin du mois de novembre ou le début du mois de décembre. Cette assemblée aura pour but de voir l'état des comptes actuel (via un bilan financier) et de demander aux membres du Conseil d'Administration d'effectuer un bilan moral pour la partie de leur mandat écoulée (de leur élection jusqu'au jour de l'Assemblée Générale)
 
-+b. Il doit être tenu, chaque année, une Assemblée Générale ordinaire dans le courant du mois d’avril ou du mois de mai. Cette assemblée aura, à son ordre du jour notamment la décharge de chaque administrateur, l’élection des administrateurs entrant en fonction  et se verra soumettre l’approbation des comptes de l’exercice écoulé et le budget du prochain exercice.
+b. Il doit être tenu, chaque année, une Assemblée Générale ordinaire dans le courant du mois d’avril ou du mois de mai. Cette assemblée aura, à son ordre du jour notamment la décharge de chaque administrateur, l’élection des administrateurs entrant en fonction  et se verra soumettre l’approbation des comptes de l’exercice écoulé et le budget du prochain exercice.
 
 **Art. 22 :** Les décisions de l’assemblée sont consignées dans un registre signé par le président et un autre administrateur. Ce registre se trouve au siège social et est accessible à tout membre  désirant le consulter, sauf en ce qui concerne le volet comptable qui sera accessible aux seuls membres effectifs.
 
 
-##Titre IV: Les Pouvoirs de l’Assemblée  Générale
+##Titre VII: Les Pouvoirs de l’Assemblée Générale
 
 **Art. 23 :** L’Assemblée Générale possède les pouvoirs qui lui sont expressément reconnus par la loi ou les présents statuts. Sont de sa compétence :
 
@@ -149,13 +139,12 @@ a. Il doit être tenu, chaque année, une Assemblée Générale ordinaire (dite 
 Tout ce qui n’est pas attribué par la loi ou les présents statuts à l’Assemblée Générale relève de la compétence du Conseil d’Administration.
 
 
-##Titre V: La Composition du conseil d’administration
+##Titre VIII: La Composition du conseil d’administration
 
 **Art. 24 :**
-
 a. L’association est gérée par un Conseil d’Administration composé de minimum six administrateurs. Le nombre d’administrateurs doit toujours être inférieur au nombre de personnes membres de l’association.
 
-b. Les administrateurs sont nommés  et révoqués.
+b. Les administrateurs sont nommés et révoqués.
 
 c. En cas de vacance d’un ou de plusieurs administrateurs, le ou les administrateurs restants continuent à former un Conseil d’Administration ayant les mêmes pouvoirs que si le conseil était complet.
 
@@ -164,7 +153,6 @@ d. La durée du mandat des administrateurs est limitée à 12 mois. Les mandats 
 **Art. 25 :** Les administrateurs ne contractent, en raison de leur fonction, aucune obligation personnelle et ne sont responsables, vis-à-vis de l’association, que de l’exécution de leur mandat. Les administrateurs ne sont pas rémunérés.
 
 **Art. 26 :**
-
 a. Le mandat d’administrateur est toujours révocable sans que l’Assemblée Générale doive motiver ou justifier sa décision.
 
 b. Tout administrateur qui veut démissionner doit signifier sa démission par écrit au Conseil d’Administration. L’administrateur démissionnaire doit toutefois rester en fonction jusqu’à la date de la prochaine Assemblée Générale si sa démission a pour effet que le nombre d’administrateurs devienne inférieur au nombre minimum d’administrateurs fixé à l’article 24a).
@@ -179,18 +167,16 @@ f. Est réputé démissionnaire de sa fonction dans le Conseil d’Administratio
 
 g. L’administrateur démissionnaire peut garder sa qualité de membre effectif si le Conseil d’Administration l’accepte.
 
-##Titre VI: Le Fonctionnement du Conseil d’Administration
+##Titre IX: Le Fonctionnement du Conseil d’Administration
 
 **Art. 27 :**
-
-a. Le Conseil d’Administration est composé au minimum d’un président, un trésorier,  un secrétaire, un vice-président internet, un vice-président externe et un délégué folklore.
+a. Le Conseil d’Administration est composé au minimum d’un président, un trésorier, un secrétaire, un vice-président internet, un vice-président externe et un délégué folklore.
 
 b. Un même administrateur peut être nommé à plusieurs fonctions conformément aux dispositions mentionnées dans le Règlement d’Ordre Intérieur.
 
 c. En cas d’empêchement temporaire du président, du secrétaire ou du trésorier, le Conseil d’Administration peut désigner un administrateur pour le remplacer à titre intérimaire.
 
 **Art. 28 :**
-
 a. Le Conseil d’Administration se réunit sur convocation du président ou, en cas d’empêchement, d’un autre administrateur, chaque fois que les nécessités de l’association l’exigent ou à la demande d’au moins deux administrateurs.
 
 b. La convocation au Conseil d’Administration est envoyée par courriel, soit remis par avis donnés ou remis à la personne ou à domicile au moins quinze jours avant la date fixée pour la réunion du conseil. Elle contient l’ordre du jour, la date, l’heure et le lieu de la réunion.
@@ -208,10 +194,9 @@ b. Néanmoins, le bureau peut agir seul pour toutes les affaires urgentes, c’e
 **Art. 31 :** Les décisions du Conseil d’Administration sont consignées sous la forme de procès-verbaux signés par le président et le secrétaire et inscrites dans un registre. Ce registre est conservé au siège de l'association où tous les membres peuvent en prendre connaissance, mais sans déplacement du registre.
 
 
-##Titre VII: Les Pouvoirs Dévolus au  Conseil d’Administration
+##Titre X: Les Pouvoirs Dévolus au Conseil d’Administration
 
 **Art. 32 :**
-
 a. Le Conseil d’Administration a tous les pouvoirs de représentation et de gestion pour les actes nécessaires ou utiles à la réalisation de l’objet de l’association, à l’exception de ceux que la loi ou les présents statuts réservent à l’Assemblée Générale. Le Conseil d’Administration rendra compte des ses activités à chaque Assemblée Générale ordinaire.
 Il peut notamment faire et recevoir tous les paiements et en exiger ou donner quittance, faire et recevoir tous dépôts, acquérir, échanger ou aliéner tous biens meubles et immeubles ainsi que prendre et céder à bail; accepter et recevoir tous subsides et subventions privés ou officiels; accepter et recevoir tous legs et donations; consentir et conclure tous contrats d'entreprises et de ventes, contracter tous emprunts avec ou sans garantie, consentir et accepter toute subrogation et cautionnement, hypothéquer les immeubles sociaux, contracter et effectuer tous prêts et avances, exercer toutes actions judiciaires au nom de l’association tant en demandant qu'en défendant, devant toutes juridictions et exécuter tous jugements, transiger, compromettre, coopter des membres de l'association pour l'aider à réaliser certains de ses objectifs, créer des commissions destinées à l'aider dans certaines de ses réalisations, fixer du montant de la cotisation annuelle des membres et le délai maximal pour qu’ils s’en acquittent.
 
@@ -222,22 +207,31 @@ b. Le Conseil d’Administration exerce son pouvoir collégialement.
 **Art. 34 :** L’association est responsable des fautes imputables soit à ses préposés, soit aux organes par lesquels s’exerce sa volonté mais ses membres ne contractent aucune obligation personnelle relative aux engagements de l'association.
 
 
-##Titre VIII : Des conditions et modalités d'élection du Conseil d’Administration
+##Titre XI : Des conditions et modalités d'élection du Conseil d’Administration
 
 **Art. 35 :** Les membres du Conseil d’Administration sont élus pour 12 mois par l'Assemblée Générale ordinaire. Néanmoins, une Assemblée Générale extraordinaire peut être convoquée afin de pourvoir au remplacement d'un administrateur démissionnaire ou à nommer un administrateur à  un poste resté vacant après l’Assemblée Générale ordinaire.
 
 
-##Titre IX : Les Comptes et le Budget
+##Titre XII : Les Comptes et le Budget
 
 **Art. 36 :** Le Conseil d’Administration est responsable de la gestion financière de l’association. Les revenus de l'association proviennent des cotisations, des dons et de toute autre source légale. Les avoirs en monnaie doivent être déposés sur un compte en banque au nom de l'association.
 
+**Art. 36bis :**
+a) Trois comptes supplémentaire sont ouverts au nom de l'association dédiés à la gestion du bar, du hackerspace et du folklore. Pour chacun de ces comptes deux mandataires sont désignés : un mandataire trésorier et un mandataire censeur.
+
+b) Un mandataire trésorier est responsable de la gestion journalière du compte. Il peut utiliser l'argent du compte dans le cadre des activités de l'entité qu'il représente. Les articles 21 a) et b), 36, 37 a) et b) et 37Bis sont applicables. Il y a un mandataire trésorier pour le bar, pour sa désignation se rapporter à l'article 7 g). Il y a un mandataire trésorier pour le hackerspace, pour sa désignation se rapporter à l'article 7 h). Il y a un mandataire trésorier pour le baptême, pour sa désignation se rapporter à l'article 7bis i).
+
+c) Un mandataire censeur ne peut pas entraver le mandataire trésorier dans sa gestion. Cependant en cas d'incapacité d'un mandataire trésorier à effectuer son devoir, il peut lui être demandé par l'entité concernée d'effectuer la gestion journalière. Il ne peut en aucun cas soustraire de somme du compte sans l'accord écrit du responsable. Il a la responsabilité de contrôler quotidiennement la gestion du compte et de notifier au conseil administrateur et à l'entité concernée tout manquement du mandataire trésorier à l'article 36bis b). Le mandataire censeur est le trésorier.
+
+d) Le mandataire censeur du trésorier est le président.
+
 **Art. 37 :**
-a. L’exercice social commence le lendemain du jour de l’Assemblée Générale ordinaire pour se terminer le jour de l’Assemblée Générale ordinaire de l’année suivante. Le compte de l'exercice écoulé et le budget du prochain exercice sont soumis à l’Assemblée Générale le jour même de la clôture dudit compte. Par exception, le premier exercice débutera le jour du dépôt des présents statuts
+a. L’exercice social commence le 20 Avril de chaque année et finit le 19 Avril de l’année suivante. Exceptionellement, l'année de la création (2010), l'exercice social commence le 12 Mai et finit le 19 Avril 2011. Le compte de l'exercice écoulé et le budget du prochain exercice sont soumis à l'Assemblée Générale le jour de l'AG élective.
 
 b. L’Assemblée Générale peut, en cas de refus du bilan financier, nommer deux vérificateurs aux comptes qui lui feront rapport.
 
 
-##Titre X: Dissolution, liquidation de l’association
+##Titre XIII: Dissolution, liquidation de l’association
 
 **Art. 38 :** L'association ne peut être dissoute que par une décision prise par l'Assemblée Générale.
 
