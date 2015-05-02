@@ -20,24 +20,24 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 
 ##Titre III : Composition du  Conseil d’Administration
 
-**Art. 6** Le Conseil d’Administration se compose de 19 personnes :
+**Art. 6** Le Conseil d’Administration se compose de 22 personnes :
 
 1. un président
 2. un vice-président interne
 3. un vice-président externe
 4. un trésorier
 5. un secrétaire
-6. un délégué folklore
+6. deux délégué folklore
 7. trois délégués bar (Trésorier Bar, Stocks et Nettoyage)
-9. deux délégués FOSDEM
-10. un délégué web
-11. un délégué forum de l’emploi
-12. deux délégués bal et MTSM
-13. un délégué propagande
-14. un délégué photo
-15. un délégué sport, culture, librex et social
-16. un délégué cours
-17. un délégué hackerspace
+8. deux délégués FOSDEM
+9. un délégué web
+10. un délégué forum de l’emploi
+11. deux délégués bal et MTSM
+12. un délégué propagande
+13. un délégué photo
+14. un délégué sport, culture, librex et social
+15. un délégué cours
+16. trois délégué hackerspace
 
 ##Titre IV : Des conditions et modalités d'élection du Conseil d’Administration
 
@@ -63,6 +63,8 @@ i. Cependant, le Conseil d’Administration sortant peut voter - à la majorité
 
 j. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
 
+k. Les 3 postes du hackerspace seront remplis dans l'ordre suivant : Hackerspace 1, Hackerspace 2, Trésorier Hackerspace. Si deux délégués sont élu, ils se répartissent le poste. Si un seul délégué est élu, il cumule les trois postes. Si personne n'est élu, le conseil administrateur peut désigner cette personne au sein du conseil administrateur.
+
 **Art. 7bis**
 
 a. L'élection du président de baptême du Cercle Informatique de l'Université Libre de Bruxelles doit avoir lieu endéans les deux semaines précédant la "semaine folklorique" du second quadrimestre. La date de cette élection doit être communiqué 8 jours plus tôt, par l'intermédiaire des mailing-lists et du forum du Cercle Informatique de l'Université Libre de Bruxelles. 
@@ -79,9 +81,13 @@ f. Le président de baptême est élu à la majorité absolue.
 
 g. Si le président de baptême nouvellement élu satisfait aux conditions édictées dans l’article 7 b), il est éligible délégué folklore de fait.
 
+h. Lecandidat au poste de délégué folklore doit avoir effectué au moins une année de cooptation au sein du Cercle Informatique de l'Université Libre de Bruxelles.
+
+i. Les 2 postes du folklore seront remplis dans l'ordre suivant : Folklore, Trésorier folklore. Si un seul délégué est élu, il cumule les deux postes. Si personne n'est élu, le conseil administrateur peut désigner cette personne au sein du conseil administrateur.
+
 **Art. 8** Pour être valides, les candidatures doivent parvenir par écrit au président de cercle ou au secrétaire au plus tard 48 heures avant l’élection. Exception faite pour le poste de délégué folklore.
 
-**Art. 9** Chaque membre effectif de l'association ne peut se présenter qu'à un seul poste lors d'une même session élective. Exception faite pour le poste de délégué folklore dans le cas où le candidat à ce poste se présente avec un candidat à la présidence de baptême qui ne peut pas être désigné délégué folklore de fait.
+**Art. 9** Chaque membre effectif de l'association ne peut se présenter qu'à un seul poste lors d'une même session élective. Exception faite pour les postes de délégué folklore dans le cas où le candidat au poste de président se présente avec un candidat à la présidence de baptême qui ne peut pas être désigné délégué folklore de fait et dans le cas où le candidat au poste de trésorier folklore veut se présenter à un autre poste du conseil d'administration.
 
 **Art. 10**
 
