@@ -41,11 +41,9 @@ c. Le nombre de membres effectifs n’est pas limité, sans pouvoir être infér
 **Art. 8 :**
 a. Est membre effectif tout étudiant, ou ancien étudiant, qui aura été admis en cette qualité par le Conseil d’Administration. Le membre effectif dispose du droit de vote à l’Assemblée Générale à hauteur d’une voix.
 
-b. Toutefois, le membre effectif qui n’aurait pas été baptisé au Cercle Informatique de l’Université Libre de Bruxelles, ou dans tout autre cercle reconnu comme folklorique par le Conseil d’Administration, ne dispose pas du droit de vote pour l’élection du délégué folklore.
+b. Est membre adhérant toute personne qui aura été admise en cette qualité par le Conseil d’Administration. Le membre adhérent ne peut pas consulter les documents comptables et ne dispose pas du droit de vote. Il dispose néanmoins d’une voix consultative.
 
-c. Est membre adhérant toute personne qui aura été admise en cette qualité par le Conseil d’Administration. Le membre adhérent ne peut pas consulter les documents comptables et ne dispose pas du droit de vote. Il dispose néanmoins d’une voix consultative.
-
-d. Est membre d'honneur toute personne admise en cette qualité par le Conseil d’Administration et ayant accepté cette distinction. Le membre d’honneur ne peut pas consulter les documents comptables et ne dispose pas du droit de vote. Il dispose néanmoins d’une voix consultative.
+c. Est membre d'honneur toute personne admise en cette qualité par le Conseil d’Administration et ayant accepté cette distinction. Le membre d’honneur ne peut pas consulter les documents comptables et ne dispose pas du droit de vote. Il dispose néanmoins d’une voix consultative.
 
 ###Démission ou exclusion d’un membre
 
@@ -150,6 +148,8 @@ c. En cas de vacance d’un ou de plusieurs administrateurs, le ou les administr
 
 d. La durée du mandat des administrateurs est limitée à 12 mois. Les mandats des administrateurs sont renouvelables.
 
+e. Le nombre d'administrateur composant le conseil d'administration ainsi que la conposition du conseil d'administration sont fixés par le Règlement d'Ordre Intérieur.
+
 **Art. 25 :** Les administrateurs ne contractent, en raison de leur fonction, aucune obligation personnelle et ne sont responsables, vis-à-vis de l’association, que de l’exécution de leur mandat. Les administrateurs ne sont pas rémunérés.
 
 **Art. 26 :**
@@ -170,7 +170,7 @@ g. L’administrateur démissionnaire peut garder sa qualité de membre effectif
 ##Titre IX: Le Fonctionnement du Conseil d’Administration
 
 **Art. 27 :**
-a. Le Conseil d’Administration est composé au minimum d’un président, un trésorier, un secrétaire, un vice-président internet, un vice-président externe et un délégué folklore.
+a. Le Conseil d’Administration est composé au minimum d’un président, un trésorier, un secrétaire, un vice-président internet, un vice-président externe et un délégué folklore. Ces six administrateurs composent le bureau de l'ASBL.
 
 b. Un même administrateur peut être nommé à plusieurs fonctions conformément aux dispositions mentionnées dans le Règlement d’Ordre Intérieur.
 
@@ -210,6 +210,8 @@ b. Le Conseil d’Administration exerce son pouvoir collégialement.
 ##Titre XI : Des conditions et modalités d'élection du Conseil d’Administration
 
 **Art. 35 :** Les membres du Conseil d’Administration sont élus pour 12 mois par l'Assemblée Générale ordinaire. Néanmoins, une Assemblée Générale extraordinaire peut être convoquée afin de pourvoir au remplacement d'un administrateur démissionnaire ou à nommer un administrateur à  un poste resté vacant après l’Assemblée Générale ordinaire.
+
+**Art. 35 bis:** Les conditions d'éligibilité et modalités d'élection pour chaque poste du conseil d'administration sont fixées par le Règlement d'Ordre Intérieur.
 
 
 ##Titre XII : Les Comptes et le Budget
