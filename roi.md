@@ -43,9 +43,9 @@ Peut être suspendu tout membre qui aurait commis des dégradations volontaires 
 
 **Art. 7**
 
-a. Tout candidat au Conseil d’Administration doit être membre effectif de l'association et avoir épongé toutes les dettes qu'il a contractées envers l’association. Il devra également être inscrit comme élève régulier d’un établissement scolaire de type supérieur à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard.
+a. Tout candidat au Conseil d’Administration doit être membre effectif de l'association et avoir épongé toutes les dettes qu'il a contractées envers l’association. Il devra également être inscrit comme élève régulier d’un établissement scolaire de type supérieur à compter du 30 octobre de l’année académique suivant la prise de fonction au plus tard.
 
-b. Tout candidat à un poste du Bureau de l’association devra être inscrit comme élève régulier en cours du jour à l’Université Libre de Bruxelles à compter du 20 septembre de l’année académique suivant la prise de fonction au plus tard.
+b. Tout candidat à un poste du Bureau de l’association devra être inscrit comme élève régulier d'un établissement scolaire de type supérieur à compter du 30 octobre de l’année académique suivant la prise de fonction au plus tard.
 
 c. Tout candidat à un poste du Bureau de l’association devra avoir effectué antérieurement au moins un mandat complet dans le Conseil d’Administration de l’association.
 
@@ -59,11 +59,7 @@ g. Le candidat au poste de délégué hackerspace doit avoir été approuvé par
 
 h. Les 3 postes du bar seront remplis dans l'ordre de préférence suivant: Trésorier Bar, Stocks, Nettoyage. Si le nombre de barmans élus est inférieur à 3, les barmans restants se divisent le ou les postes non remplis.
 
-i. Cependant, le Conseil d’Administration sortant peut voter - à la majorité absolue des voix présentes et représentées - une dérogation pour des candidats au poste de secrétaire, vice-président interne et vice-président externe qui ne respecteraient pas les conditions édictées dans l’article 7 c) en vue de se présenter pour l’élection du Conseil d’Administration lors de l’Assemblée Générale  ordinaire. Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
-
-j. Si des élections pour des postes du Bureau de l’association doivent avoir lieu lors d’une Assemblée Générale extraordinaire, le nouveau Conseil d’Administration peut voter - à la majorité absolue des voix présentes et représentées -  une dérogation pour les candidats ne respectant pas les conditions édictées dans l’article 7 c) d) e) ou f). Aucune dérogation n'est prévue pour les candidats ne respectant pas les conditions édictées dans l'article 7 a) et b).
-
-k. Les 3 postes du hackerspace seront remplis dans l'ordre suivant : Hackerspace 1, Hackerspace 2, Trésorier Hackerspace. Si deux délégués sont élu, ils se répartissent le poste. Si un seul délégué est élu, il cumule les trois postes. Si personne n'est élu, le conseil administrateur peut désigner cette personne au sein du conseil administrateur.
+i. Les 3 postes du hackerspace seront remplis dans l'ordre suivant : Hackerspace 1, Hackerspace 2, Trésorier Hackerspace. Si deux délégués sont élu, ils se répartissent le poste. Si un seul délégué est élu, il cumule les trois postes. Si personne n'est élu, le conseil administrateur peut désigner cette personne au sein du conseil administrateur.
 
 **Art. 7bis**
 
@@ -113,9 +109,9 @@ c. En cas d’égalité entre les candidats après le deuxième tour de scrutin,
 
 a. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur ayant été absent à 4 réunions consécutives sans avoir été excusé.
 
-b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association, l’administrateur n’étant plus inscrit comme élève régulier en cours du jour à l’Université Libre de Bruxelles. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
+b. Est réputé démissionnaire de sa fonction dans le Bureau de l’association, l’administrateur n’étant plus inscrit comme élève régulier en cours du jour à l’Université Libre de Bruxelles. Cette mesure est d’application à compter du 30 octobre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
-c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 20 septembre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
+c. Est réputé démissionnaire de sa fonction dans le Conseil d’Administration, l’administrateur n’étant pas inscrit comme élève régulier d’un établissement scolaire de type supérieur. Cette mesure est d’application à compter du 30 octobre de l’année académique suivant la prise de fonction, et ce jusqu’à la prochaine Assemblée Générale ordinaire.
 
 ##Titre VI : Convocation du Conseil d’Administration
 
